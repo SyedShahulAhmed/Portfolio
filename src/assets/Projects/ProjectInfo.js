@@ -9,8 +9,19 @@ import img8  from '../Projects/img8.png'
 import img9  from '../Projects/img9.png'
 import img10  from '../Projects/img10.png'
 import img11  from '../Projects/img11.png'
+import img12  from '../Projects/img12.png'
 
 export const project = [
+    {
+        id: 12,
+        name: "Netflix Clone",
+        desc: "A Netflix UI clone built with React.js, Tailwind CSS, and Firebase, featuring login and signup functionality. It replicates Netflix's interface with static content and a modern, sleek design",
+        image: img12, 
+        github: "https://github.com/SyedShahulAhmed/Netflix.git", 
+        preview: "https://netflix-gamma-peach-44.vercel.app/", 
+        categories: ['React Js', 'Tailwind Css', 'Firebase'],
+        button: true
+    },   
     {
         id: 1,
         name: "ReactXhibit",
