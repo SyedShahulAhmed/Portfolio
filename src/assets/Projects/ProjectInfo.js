@@ -10,8 +10,19 @@ import img9  from '../Projects/img9.png'
 import img10  from '../Projects/img10.png'
 import img11  from '../Projects/img11.png'
 import img12  from '../Projects/img12.png'
+import img13  from '../Projects/img13.png'
 
 export const project = [
+    {
+        id: 13,
+        name: "PlayTube",
+        desc: "A YouTube-like clone built with React.js and Tailwind CSS, utilizing the official YouTube API. It features video viewing and category-based filtering for a seamless user experience.",
+        image: img13, 
+        github: "https://github.com/SyedShahulAhmed/PlayTube.git", 
+        preview: "https://playtube-eta.vercel.app/", 
+        categories: ['React Js', 'Tailwind Css', 'YouTube API'],
+        button: true
+    },    
     {
         id: 12,
         name: "Netflix Clone",
