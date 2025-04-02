@@ -11,8 +11,19 @@ import img10  from '../Projects/img10.png'
 import img11  from '../Projects/img11.png'
 import img12  from '../Projects/img12.png'
 import img13  from '../Projects/img13.png'
+import img14  from '../Projects/img14.png'
 
 export const project = [
+    {
+        id: 14,
+        name: "Postify",
+        desc: "A full-featured post management app built with React.js and Tailwind CSS, using Appwrite for backend services. It allows users to create, update, and delete posts with seamless authentication and data storage.",
+        image: img14, 
+        github: "https://github.com/SyedShahulAhmed/Postify.git", 
+        preview: "https://postify-beta-ashen.vercel.app/", 
+        categories: ['React Js', 'Tailwind Css', 'Appwrite'],
+        button: true
+    },    
     {
         id: 13,
         name: "PlayTube",
