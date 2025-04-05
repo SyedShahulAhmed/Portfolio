@@ -12,7 +12,7 @@ Welcome to my personal portfolio repository! 🎉 This is where I showcase my sk
 
 ## 🛠️ Technologies Used
 - **Frontend**: React.js, Tailwind CSS, HTML, JavaScript
-- **Other Tools**: Git, GitHub, Figma
+
 
 ## 💡 Features
 - 🖥️ **Showcase of Projects**: Explore my journey through my work.
