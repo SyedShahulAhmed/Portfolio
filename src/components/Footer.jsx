@@ -13,7 +13,7 @@ const Footer = () => {
     <div className="w-full bg-[#023e8a]">
       <div className="max-w-[1240px] flex flex-col justify-between items-center mx-auto  px-2 p-5 lg:flex-row text-white gap-5">
         <h1 className="font-semibold">Designed and Developed by <span className="text-[#2CEEF0]">Shahul Ahmed</span></h1>
-        <p className="font-semibold">Copyright © 2024 SA</p>
+        <p className="font-semibold">Copyright © 2025 SA</p>
         <ul className="flex justify-center items-center gap-5">
           <Link to={'https://github.com/SyedShahulAhmed'}>
             <li className="hover:text-[#171515] transition-colors duration-300">
