@@ -4,7 +4,6 @@ import Education from '../components/Education'
 import Skills from '../components/Skills'
 import Tools from '../components/Tools'
 import Github from '../components/Github'
-import Leetcode from '../components/Leetcode'
 
 const About = () => {
   return (
