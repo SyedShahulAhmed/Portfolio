@@ -8,12 +8,14 @@ import img5 from "../assets/Certification/img5.png";
 import img6 from "../assets/Certification/img6.png";
 import img7 from "../assets/Certification/img7.png";
 import img8 from "../assets/Certification/img8.png";
+import img9 from "../assets/Certification/img9.png";
+
 
 const Certificates = () => {
   const [Imgcount, setImgcount] = useState(0);
   
   // Array of images
-  const images = [img1, img5, img3, img4, img2, img6, img7, img8];
+  const images = [img1, img5, img3, img4, img2, img6, img7, img8,img9];
   const text = [
     "Privacy and Security in Online Social Media",
     "Google Cloud Computing Foundations",
@@ -22,12 +24,13 @@ const Certificates = () => {
     "Machine Learning and GenAI",
     "Data Analytics and Visualization with Excel and R",
     "Python Basics for Data Science",
-    "Developer and Technology Job Simulation"
+    "Developer and Technology Job Simulation",
+    "Artificial Intelligence Fundamentals",
   ];
 
   useEffect(() => {
     const Interval = setTimeout(() => {
-      setImgcount((p) => (p === 7 ? 0 : p + 1)); 
+      setImgcount((p) => (p === 8 ? 0 : p + 1)); 
     }, 5000);
 
     return () => clearInterval(Interval); 
