@@ -14,7 +14,7 @@ const Main = () => {
             <span className="font-bold text-[#2CEEF0] italic "> Nellore, India</span>
           </p>
           <p className="text-lg px-5 font-semibold mb-2">
-            I’m currently in my pre-final year at 
+            I’m currently in my final year at 
             <span> NBKR Institute of Science and Technology</span>
           </p>
           <p className="text-lg px-5 font-semibold">
