@@ -19,10 +19,10 @@ const HeroSection = () => {
         <span className="text-4xl font-bold text-[#2CEEF0] pt-8">
           <ReactTyped
             strings={[
-              "Frontend Specialist",
+              "MERN Stack Developer",
               "JavaScript Enthusiast",
               "Software Developer",
-              "Data Analyst"
+              "DSA Problem Solver"
             ]}
             typeSpeed={120}
             backSpeed={140}
