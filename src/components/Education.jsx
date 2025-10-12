@@ -14,7 +14,7 @@ const Education = () => {
           img={nbkr}
           name="NBKR Institute of Science and Technology"
           date="Aug 2022 - May 2026"
-          grade="8.77 CGPA"
+          grade="8.87 CGPA"
           content="
 Pursuing a Bachelor of Technology (B.Tech) in Artificial Intelligence and Data Science at NBKR Institute of Science and Technology (NBKRIST), Nellore, India. Currently in the pre-final year, gaining expertise in AI and Data Science through coursework."
         />
