@@ -3,10 +3,10 @@ import { GrFormPreviousLink, GrFormNextLink } from 'react-icons/gr'
 const CertificateCard = ({ image, text, setImgcount }) => {
 
     const Prev = ()=>{
-        setImgcount((p) => p < 1 ? 7 : p - 1)
+        setImgcount((p) => p < 1 ? 9 : p - 1)
     }
     const Next = ()=>{
-        setImgcount((p) => p === 7 ? 0 : p + 1 )
+        setImgcount((p) => p === 9 ? 0 : p + 1 )
     }
 
 
